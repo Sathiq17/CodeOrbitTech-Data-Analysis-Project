@@ -1,0 +1,8 @@
+DATA CLEANING LOG
+==============================
+Loaded raw file with 415 rows.
+Removed 13 exact duplicate rows.
+Rows with unparseable dates: 0 (dropped).
+Filled 10 missing Region values with 'Unknown'.
+Dropped 149 rows with missing/zero/negative Quantity or UnitPrice.
+Final cleaned row count: 253

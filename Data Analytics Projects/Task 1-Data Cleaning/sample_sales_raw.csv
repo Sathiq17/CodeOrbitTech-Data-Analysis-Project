@@ -1,0 +1,416 @@
+OrderID,OrderDate,Region,Product,Customer,SalesRep,Quantity,UnitPrice
+1352,04/20/2025,WEST, webcam hd,Customer 14,Karthik,3,1355.11
+1130,03/31/2025,East,Mechanical Keyboard,Customer 46,Priya,-1,1598.94
+1356,2025-05-22,north,Laptop Stand,Customer 42,Meena,5,464.06
+1103,17/06/2025,east ,usb-c cable,Customer 9,Suresh,2,1499.54
+1310,01/21/2025,South ,USB-C Cable,Customer 6,Meena,4,
+1015,13/02/2025,South,Mechanical Keyboard,Customer 50,Priya,3,1989.12
+1392,25/01/2025,west,Mechanical Keyboard,Customer 50,Priya,0,522.0
+1306,13-02-2025,east , webcam hd,Customer 53,Divya,2,1519.33
+1016,08/05/2025,WEST,Desk Lamp,Customer 20,Divya,2,1078.84
+1105,2025-07-23,South,Bluetooth Speaker,Customer 1,Karthik,-1,296.3
+1204,2025-09-21,,Bluetooth Speaker,Customer 43,Arun,five,496.75
+1088,2025-06-24, north,Laptop Stand,Customer 47,Karthik,0,1648.57
+1061,04-06-2025, north,Laptop stand ,Customer 35,Divya,2,299.36
+1228,06/13/2025,South ,Laptop stand ,Customer 27,Arun,0,2831.82
+1237,13/09/2025,South ,Webcam HD,Customer 55,Arun,-1,282.84
+1137,04/02/2025,west, webcam hd,Customer 20,Karthik,0,290.15
+1114,01/14/2025, north,Laptop stand ,Customer 51,Priya,0,721.62
+1112,2025-01-26,WEST,USB-C Cable,Customer 51,Suresh,4,318.72
+1301,01/27/2025,WEST,Mechanical Keyboard,Customer 3,Divya,2,1072.13
+1348,23-03-2025,north,Desk Lamp,Customer 33,Divya,five,3209.71
+1102,12-03-2025, north,Laptop Stand,Customer 51,Divya,1,1458.49
+1296,05/13/2025,South ,USB-C Cable,Customer 48,Karthik,2,3238.86
+1194,16/05/2025,WEST,usb-c cable,Customer 18,Suresh,5,543.06
+1083,21-09-2025,west,Bluetooth Speaker,Customer 4,Priya,-1,818.6
+1284,22-02-2025,South ,Laptop stand ,Customer 57,Karthik,3,1053.64
+1376,08-02-2025,north, webcam hd,Customer 15,Divya,5,793.29
+1126,2025-03-22,north,Desk Lamp,Customer 21,Suresh,0,321.92
+1128,2025-02-28,East,wireless mouse ,Customer 19,Meena,0,1004.38
+1321,2025-01-15,east ,Webcam HD,Customer 13,Divya,-1,
+1127,26-01-2025,north,bluetooth  speaker,Customer 43,Divya,,1481.62
+1326,2025-07-13,north,USB-C Cable,Customer 12,Meena,1,2178.39
+1291,07-02-2025,South,Wireless Mouse,Customer 17,Priya,1,325.83
+1209,11/02/2025,South ,wireless mouse ,Customer 59,Suresh,2,318.66
+1073,2025-03-18,South,usb-c cable,Customer 8,Suresh,3,1527.82
+1144,07-03-2025,East,Mechanical Keyboard,Customer 24,Arun,2,747.91
+1193,27/09/2025,South ,USB-C Cable,Customer 30,Suresh,2,1455.32
+1211,29/01/2025,east ,Mechanical Keyboard,Customer 27,Divya,0,302.52
+1124,2025-01-14, north,USB-C Cable,Customer 18,Meena,5,775.19
+1359,2025-09-17,east , webcam hd,Customer 57,Suresh,3,734.7
+1056,19/04/2025,South ,Laptop stand ,Customer 49,Divya,5,3269.63
+1067,2025-05-05,South ,bluetooth  speaker,Customer 36,Suresh,2,1098.23
+1373,23-02-2025,north,wireless mouse ,Customer 51,Arun,,509.88
+1260,2025-01-12,South, webcam hd,Customer 52,Priya,4,1401.4
+1342,22/05/2025, north,Desk Lamp,Customer 40,Suresh,-1,2950.77
+1393,14/06/2025,East,Webcam HD,Customer 59,Meena,4,782.68
+1355,22-02-2025,South ,Mechanical Keyboard,Customer 42,Suresh,0,766.8
+1024,30-01-2025,South ,Wireless Mouse,Customer 4,Suresh,,1624.73
+1134,28-03-2025,South,Mechanical Keyboard,Customer 33,Priya,2,835.34
+1040,2025-04-08, north,Desk Lamp,Customer 28,Arun,-1,3022.06
+1225,22/04/2025,WEST,Laptop stand ,Customer 20,Arun,4,545.12
+1027,2025-05-03,East,USB-C Cable,Customer 43,Meena,5,962.27
+1031,2025-04-15,west,Laptop Stand,Customer 58,Arun,five,1968.45
+1279,08/03/2025,South , webcam hd,Customer 49,Arun,five,306.55
+1338,18-05-2025,east ,Desk Lamp,Customer 43,Arun,2,1936.55
+1290,06/12/2025,East,Webcam HD,Customer 27,Karthik,-1,1868.17
+1305,01/31/2025,north,wireless mouse ,Customer 3,Priya,-1,1039.13
+1377,2025-01-21,South , webcam hd,Customer 21,Divya,five,320.0
+1323,15-06-2025, north,USB-C Cable,Customer 38,Meena,3,2765.63
+1243,06/01/2025,South,wireless mouse ,Customer 18,Priya,3,2112.5
+1107,24-04-2025,west,Desk Lamp,Customer 20,Meena,3,277.46
+1101,2025-04-28,WEST, webcam hd,Customer 13,Suresh,5,2101.18
+1066,28/07/2025,WEST,Desk Lamp,Customer 31,Meena,,1057.53
+1123,2025-02-25,South ,wireless mouse ,Customer 49,Karthik,0,529.66
+1116,2025-01-23,west, webcam hd,Customer 2,Arun,,2939.99
+1037,2025-06-29,WEST,usb-c cable,Customer 2,Meena,4,964.69
+1372,2025-01-05,East, webcam hd,Customer 7,Meena,-1,818.62
+1332,07/12/2025,South,Mechanical Keyboard,Customer 58,Arun,2,1644.49
+1397,27/05/2025, north,Mechanical Keyboard,Customer 7,Arun,3,454.4
+1270,23/08/2025,South,Webcam HD,Customer 8,Karthik,-1,3293.44
+1230,2025-06-22,west,Desk Lamp,Customer 42,Meena,,932.71
+1263,2025-04-06,South ,usb-c cable,Customer 30,Arun,5,2143.98
+1280,22/03/2025,west,Wireless Mouse,Customer 28,Priya,3,1919.79
+1159,26/08/2025,east ,USB-C Cable,Customer 5,Meena,,
+1081,09-09-2025,west,Laptop stand ,Customer 27,Karthik,2,1840.92
+1195,17/04/2025,South ,bluetooth  speaker,Customer 23,Suresh,5,738.58
+1142,2025-07-17,north,Desk Lamp,Customer 55,Meena,0,2789.29
+1294,08/06/2025,WEST,Wireless Mouse,Customer 16,Arun,3,296.21
+1055,14/01/2025, north,wireless mouse ,Customer 42,Divya,3,2976.03
+1278,02/02/2025,,Bluetooth Speaker,Customer 53,Priya,,770.69
+1281,2025-02-17,north,wireless mouse ,Customer 24,Meena,3,292.8
+1174,04/04/2025,East,Mechanical Keyboard,Customer 59,Arun,2,1394.97
+1291,07-02-2025,South,Wireless Mouse,Customer 17,Priya,1,325.83
+1250,2025-03-11,South ,Webcam HD,Customer 45,Priya,,747.49
+1383,23-06-2025,East, webcam hd,Customer 47,Priya,,825.16
+1154,05-08-2025,north,usb-c cable,Customer 20,Arun,1,491.0
+1155,26/02/2025, north, webcam hd,Customer 33,Suresh,4,1856.5
+1153,08/30/2025,west,bluetooth  speaker,Customer 40,Arun,2,284.4
+1358,01/19/2025,South ,Desk Lamp,Customer 46,Priya,-1,2112.9
+1161,2025-01-25,north,wireless mouse ,Customer 52,Karthik,3,1047.61
+1317,09/27/2025, north,Bluetooth Speaker,Customer 51,Meena,2,1007.89
+1364,10-06-2025, north,bluetooth  speaker,Customer 18,Priya,3,1578.29
+1272,14/02/2025,South,usb-c cable,Customer 14,Meena,0,1939.28
+1265,02/13/2025,South ,wireless mouse ,Customer 16,Karthik,2,486.36
+1082,2025-09-11,East,Mechanical Keyboard,Customer 3,Divya,2,759.43
+1053,2025-06-30,East,Bluetooth Speaker,Customer 35,Meena,-1,3060.93
+1084,01/27/2025,north,Mechanical Keyboard,Customer 9,Karthik,,
+1361,31/05/2025,South,bluetooth  speaker,Customer 4,Meena,0,1632.2
+1051,03/12/2025,WEST,Bluetooth Speaker,Customer 45,Priya,4,293.91
+1098,05/28/2025,South,bluetooth  speaker,Customer 23,Suresh,5,2183.72
+1010,2025-07-24,WEST,USB-C Cable,Customer 33,Divya,2,2727.36
+1357,2025-07-26,east ,Desk Lamp,Customer 2,Meena,,760.56
+1240,2025-07-19,East,Desk Lamp,Customer 9,Meena,2,1572.59
+1074,14/07/2025,west,Laptop Stand,Customer 56,Suresh,3,809.97
+1214,2025-08-04,East,bluetooth  speaker,Customer 56,Divya,3,309.93
+1197,04/20/2025,north,Mechanical Keyboard,Customer 45,Karthik,3,305.92
+1286,30/07/2025,WEST,wireless mouse ,Customer 58,Arun,3,2772.97
+1262,08/08/2025, north,Desk Lamp,Customer 14,Priya,5,3121.22
+1023,02/01/2025,north,bluetooth  speaker,Customer 19,Divya,-1,2086.32
+1244,04-07-2025,South,Wireless Mouse,Customer 20,Divya,2,2860.91
+1136,10/09/2025,west, webcam hd,Customer 60,Suresh,0,857.21
+1146,27-09-2025,South ,Webcam HD,Customer 9,Suresh,3,465.29
+1395,04/22/2025,WEST,Webcam HD,Customer 46,Karthik,2,1852.14
+1255,13-02-2025,WEST, webcam hd,Customer 43,Karthik,3,2044.05
+1210,03/18/2025,South ,Mechanical Keyboard,Customer 29,Arun,4,2032.24
+1059,2025-05-12,east ,Webcam HD,Customer 39,Meena,2,3190.52
+1050,24/09/2025,WEST,Laptop Stand,Customer 29,Arun,5,476.22
+1038,2025-05-23,East, webcam hd,Customer 54,Suresh,2,276.0
+1239,01/09/2025,east ,Desk Lamp,Customer 53,Divya,2,745.06
+1166,01/18/2025,South,usb-c cable,Customer 50,Meena,2,780.28
+1157,17-09-2025,East,bluetooth  speaker,Customer 3,Meena,3,
+1080,2025-01-11, north,USB-C Cable,Customer 31,Suresh,,748.1
+1251,09/09/2025,South ,Bluetooth Speaker,Customer 18,Divya,2,324.84
+1227,2025-07-03,north,Laptop stand ,Customer 33,Divya,,317.11
+1269,09/08/2025,South,Webcam HD,Customer 2,Priya,5,285.54
+1005,2025-04-27,South,usb-c cable,Customer 56,Arun,3,791.55
+1075,02/20/2025,WEST,Laptop Stand,Customer 43,Arun,five,466.45
+1014,2025-01-01,west,Wireless Mouse,Customer 8,Karthik,5,454.88
+1394,03/10/2025,East,Webcam HD,Customer 45,Meena,-1,853.82
+1047,17-03-2025,South,Bluetooth Speaker,Customer 15,Priya,-1,909.13
+1046,01-09-2025,west,Bluetooth Speaker,Customer 57,Meena,0,520.79
+1070,2025-04-10,,Laptop stand ,Customer 12,Karthik,1,2012.65
+1372,2025-01-05,East, webcam hd,Customer 7,Meena,-1,818.62
+1079,13-08-2025, north,Bluetooth Speaker,Customer 48,Karthik,0,723.23
+1030,03-06-2025,east ,Laptop Stand,Customer 8,Arun,-1,476.28
+1231,09/08/2025, north,Mechanical Keyboard,Customer 3,Arun,1,2702.93
+1196,2025-07-22,east ,Laptop Stand,Customer 3,Karthik,2,866.76
+1365,02/15/2025,East, webcam hd,Customer 28,Divya,3,
+1115,04-08-2025,South,bluetooth  speaker,Customer 29,Karthik,-1,1381.79
+1025,18-09-2025,east ,wireless mouse ,Customer 39,Arun,4,923.05
+1065,2025-04-19,north,Laptop stand ,Customer 18,Suresh,5,1352.14
+1247,2025-03-13,north,Laptop Stand,Customer 32,Priya,2,492.48
+1334,2025-05-16,north,usb-c cable,Customer 7,Arun,3,1513.89
+1186,03/02/2025,South,Bluetooth Speaker,Customer 24,Karthik,-1,839.74
+1191,07/14/2025,WEST,Wireless Mouse,Customer 37,Meena,2,450.99
+1125,25-07-2025,east ,Desk Lamp,Customer 41,Arun,2,2011.19
+1068,2025-08-21,north,Laptop Stand,Customer 15,Arun,4,738.2
+1374,2025-04-14,East,Laptop Stand,Customer 11,Arun,-1,1080.99
+1077,05/16/2025,East,wireless mouse ,Customer 35,Priya,3,851.2
+1238,2025-09-01, north,wireless mouse ,Customer 44,Karthik,-1,1546.4
+1224,08-04-2025,north,Bluetooth Speaker,Customer 44,Suresh,0,321.34
+1218,01/25/2025, north,Bluetooth Speaker,Customer 29,Priya,-1,524.39
+1058,05/07/2025, north,Webcam HD,Customer 10,Priya,3,1032.86
+1125,25-07-2025,east ,Desk Lamp,Customer 41,Arun,2,2011.19
+1042,2025-09-17,East,Laptop stand ,Customer 26,Meena,5,1387.26
+1004,05/03/2025,South,Mechanical Keyboard,Customer 19,Meena,0,2916.01
+1121,07/10/2025, north,Webcam HD,Customer 36,Suresh,2,1847.97
+1189,18/09/2025,north,bluetooth  speaker,Customer 53,Arun,2,826.77
+1229,2025-08-02,east ,usb-c cable,Customer 22,Priya,3,1598.94
+1179,01/31/2025,west,Bluetooth Speaker,Customer 31,Divya,4,816.04
+1268,03/11/2025,East,Mechanical Keyboard,Customer 33,Meena,,1035.9
+1109,08/03/2025,East, webcam hd,Customer 7,Divya,0,1086.72
+1118,16/06/2025,north,bluetooth  speaker,Customer 33,Suresh,3,316.53
+1254,18/08/2025,East,Mechanical Keyboard,Customer 33,Meena,3,1360.12
+1370,20/01/2025,north,Mechanical Keyboard,Customer 40,Arun,five,308.69
+1006,07/01/2025,north,Desk Lamp,Customer 60,Meena,2,1539.47
+1298,2025-03-27,east ,Laptop Stand,Customer 50,Arun,0,2088.07
+1201,29-05-2025, north,Laptop Stand,Customer 37,Suresh,2,764.57
+1185,01/27/2025,South ,Mechanical Keyboard,Customer 19,Arun,3,1484.12
+1330,10/09/2025,,Mechanical Keyboard,Customer 25,Arun,,3217.36
+1190,14/01/2025,north, webcam hd,Customer 51,Suresh,0,521.1
+1328,2025-05-02,South ,USB-C Cable,Customer 41,Arun,2,901.38
+1241,29-04-2025,South ,Webcam HD,Customer 50,Suresh,0,1092.69
+1205,07/16/2025,west,Laptop Stand,Customer 22,Karthik,0,2028.14
+1366,11-07-2025,South ,Mechanical Keyboard,Customer 13,Arun,1,2092.39
+1003,22-06-2025,South,Bluetooth Speaker,Customer 7,Karthik,2,
+1188,09/21/2025,South ,Webcam HD,Customer 21,Priya,3,1570.75
+1122,05-08-2025,north,Webcam HD,Customer 20,Karthik,2,1501.22
+1078,2025-06-07,west,wireless mouse ,Customer 30,Meena,5,1960.02
+1329,2025-06-29,South,Desk Lamp,Customer 1,Arun,3,1045.47
+1064,08/19/2025,west,Webcam HD,Customer 40,Meena,3,723.69
+1018,04-02-2025,South ,wireless mouse ,Customer 33,Priya,5,1993.17
+1288,2025-01-14,WEST,Mechanical Keyboard,Customer 39,Suresh,4,1955.72
+1151,24/04/2025,South ,Wireless Mouse,Customer 27,Arun,3,1461.21
+1339,27-04-2025,East,Mechanical Keyboard,Customer 27,Suresh,,1613.42
+1043,2025-03-31,East,Mechanical Keyboard,Customer 54,Arun,5,752.69
+1180,26/06/2025,east ,Laptop stand ,Customer 33,Suresh,2,757.73
+1378,03/12/2025,South ,Laptop stand ,Customer 58,Divya,0,859.48
+1163,2025-04-03,South ,wireless mouse ,Customer 6,Karthik,5,790.36
+1380,27-03-2025,east ,Desk Lamp,Customer 47,Arun,3,293.98
+1140,25-06-2025,east ,Wireless Mouse,Customer 16,Meena,,1003.81
+1398,2025-03-24,north,USB-C Cable,Customer 54,Arun,5,
+1391,01-08-2025,South,bluetooth  speaker,Customer 30,Meena,0,1389.46
+1029,2025-07-09,east ,bluetooth  speaker,Customer 54,Suresh,5,1644.06
+1297,26-09-2025,north,Desk Lamp,Customer 37,Meena,2,990.05
+1309,17/04/2025,north,bluetooth  speaker,Customer 17,Arun,2,529.7
+1266,12/03/2025,East,USB-C Cable,Customer 32,Meena,-1,2166.58
+1168,08-05-2025, north,Desk Lamp,Customer 12,Divya,-1,1081.63
+1342,22/05/2025, north,Desk Lamp,Customer 40,Suresh,-1,2950.77
+1045,2025-02-13,South ,wireless mouse ,Customer 53,Priya,5,529.59
+1302,14/02/2025, north,Laptop stand ,Customer 13,Karthik,0,2881.38
+1143,2025-06-29,East,USB-C Cable,Customer 39,Meena,2,808.42
+1390,2025-02-24,WEST,usb-c cable,Customer 8,Divya,4,1063.85
+1236,11-02-2025,South,Bluetooth Speaker,Customer 25,Divya,-1,
+1041,2025-04-11,East,wireless mouse ,Customer 43,Karthik,0,825.11
+1259,2025-09-05,west,wireless mouse ,Customer 29,Meena,,
+1021,2025-04-04,west,usb-c cable,Customer 56,Arun,,3215.74
+1307,2025-05-02,north,Laptop stand ,Customer 60,Divya,2,791.45
+1108,10-09-2025,South,usb-c cable,Customer 57,Suresh,3,989.74
+1177,15-01-2025, north, webcam hd,Customer 50,Suresh,5,1883.38
+1057,29-08-2025, north,Laptop stand ,Customer 15,Meena,2,
+1314,19-06-2025, north,bluetooth  speaker,Customer 4,Priya,five,1063.27
+1203,2025-01-08,north,Webcam HD,Customer 44,Priya,3,1605.77
+1292,14/09/2025,East,Desk Lamp,Customer 26,Arun,-1,1533.79
+1273,03/26/2025,WEST,usb-c cable,Customer 52,Arun,0,804.16
+1384,28-01-2025,east ,Mechanical Keyboard,Customer 55,Divya,,2798.31
+1170,16-08-2025,South , webcam hd,Customer 23,Meena,2,1511.64
+1029,2025-07-09,east ,bluetooth  speaker,Customer 54,Suresh,5,1644.06
+1162,06/04/2025,west,Laptop stand ,Customer 60,Suresh,5,2748.65
+1149,25/05/2025,East,USB-C Cable,Customer 53,Priya,0,536.23
+1388,2025-08-21,west,Desk Lamp,Customer 43,Karthik,five,274.93
+1199,22/03/2025,west,bluetooth  speaker,Customer 42,Priya,5,764.71
+1324,2025-02-07,East,Webcam HD,Customer 7,Karthik,5,740.9
+1094,19-01-2025,WEST, webcam hd,Customer 44,Karthik,4,1835.23
+1188,09/21/2025,,Webcam HD,Customer 21,Priya,3,1570.75
+1371,01/03/2025,west,Bluetooth Speaker,Customer 8,Suresh,5,1039.33
+1221,11-09-2025,South , webcam hd,Customer 43,Divya,-1,830.37
+1085,05/03/2025,north,Mechanical Keyboard,Customer 1,Suresh,3,282.54
+1132,29-05-2025,East,Wireless Mouse,Customer 21,Priya,0,1065.34
+1187,14-09-2025, north,Wireless Mouse,Customer 9,Meena,2,2983.25
+1233,05/09/2025, north,Wireless Mouse,Customer 35,Suresh,3,270.1
+1089,2025-09-05,South ,Mechanical Keyboard,Customer 49,Suresh,3,1085.48
+1011,05-08-2025,East,Bluetooth Speaker,Customer 39,Divya,five,874.28
+1034,2025-01-21,WEST, webcam hd,Customer 16,Meena,2,843.76
+1217,27-02-2025,East,Webcam HD,Customer 50,Arun,4,455.82
+1072,2025-01-27,west,wireless mouse ,Customer 53,Arun,3,913.9
+1375,01-05-2025, north, webcam hd,Customer 6,Arun,0,1996.64
+1245,18/08/2025,South,Wireless Mouse,Customer 6,Karthik,-1,304.8
+1248,2025-02-09,north,usb-c cable,Customer 47,Meena,,1533.98
+1333,08/09/2025,East,USB-C Cable,Customer 4,Arun,2,546.34
+1139,22/01/2025,WEST,Laptop stand ,Customer 39,Divya,-1,544.68
+1172,08/28/2025,South,wireless mouse ,Customer 20,Divya,,1472.26
+1389,2025-07-01,South ,Desk Lamp,Customer 7,Arun,3,927.16
+1111,01/02/2025,north,usb-c cable,Customer 8,Divya,2,1883.9
+1343,21-02-2025,South,Laptop Stand,Customer 56,Suresh,2,951.87
+1012,2025-02-28,South ,wireless mouse ,Customer 19,Divya,3,899.75
+1220,24/04/2025,north,Laptop Stand,Customer 4,Suresh,0,2163.55
+1087,16/03/2025,WEST,Webcam HD,Customer 33,Meena,3,2740.97
+1198,04/26/2025, north,wireless mouse ,Customer 27,Karthik,,309.84
+1213,31-01-2025,west,Wireless Mouse,Customer 19,Divya,3,2780.33
+1367,06/09/2025,South,Bluetooth Speaker,Customer 33,Suresh,5,
+1234,27-05-2025,East,USB-C Cable,Customer 7,Arun,-1,473.15
+1351,2025-06-29,east ,Laptop Stand,Customer 48,Meena,2,
+1164,2025-08-16,west,Wireless Mouse,Customer 47,Karthik,0,953.96
+1175,2025-04-26,north,wireless mouse ,Customer 17,Priya,-1,739.1
+1287,2025-08-08,east ,usb-c cable,Customer 18,Meena,2,504.33
+1325,2025-09-07,east ,Desk Lamp,Customer 36,Meena,0,2913.12
+1096,03/16/2025,East,Webcam HD,Customer 44,Priya,3,456.98
+1261,08/25/2025,East, webcam hd,Customer 12,Priya,3,904.93
+1063,05/09/2025,East,Desk Lamp,Customer 38,Karthik,2,2846.35
+1222,05/04/2025,WEST,usb-c cable,Customer 20,Meena,3,2976.82
+1095,21/02/2025,east ,Desk Lamp,Customer 20,Arun,1,846.32
+1013,09/14/2025,South, webcam hd,Customer 20,Meena,-1,1408.73
+1017,2025-02-02, north,Webcam HD,Customer 36,Priya,0,449.82
+1299,23-01-2025,WEST,Wireless Mouse,Customer 31,Karthik,3,466.96
+1246,2025-01-07,East,Bluetooth Speaker,Customer 50,Arun,-1,506.18
+1207,09-06-2025,north,Laptop stand ,Customer 40,Priya,4,496.82
+1090,03/05/2025,WEST,Bluetooth Speaker,Customer 3,Karthik,,2164.29
+1271,08/14/2025,East,wireless mouse ,Customer 48,Meena,4,
+1039,16-05-2025,South,Webcam HD,Customer 28,Karthik,2,1020.22
+1086,03/02/2025,west,Desk Lamp,Customer 19,Suresh,5,1065.88
+1181,14-03-2025, north,Laptop Stand,Customer 25,Suresh,3,545.18
+1282,30/04/2025,South,Desk Lamp,Customer 7,Arun,4,914.67
+1145,09/06/2025,WEST,USB-C Cable,Customer 10,Arun,5,3171.81
+1158,06/26/2025,South,Webcam HD,Customer 48,Karthik,3,290.17
+1340,01/18/2025,South,bluetooth  speaker,Customer 12,Priya,4,
+1303,09/10/2025,WEST,USB-C Cable,Customer 1,Divya,1,503.15
+1304,2025-01-05, north, webcam hd,Customer 25,Meena,5,281.37
+1347,02/15/2025,west,usb-c cable,Customer 59,Divya,,3008.9
+1200,29-04-2025,,Bluetooth Speaker,Customer 57,Priya,1,2937.22
+1071,05/30/2025,west,wireless mouse ,Customer 56,Arun,0,794.11
+1385,2025-06-19, north,Mechanical Keyboard,Customer 15,Suresh,3,1062.36
+1349,04/09/2025, north,usb-c cable,Customer 3,Divya,1,831.7
+1319,30/01/2025,South ,Webcam HD,Customer 15,Priya,2,514.66
+1327,01/17/2025,South ,Webcam HD,Customer 15,Meena,0,325.11
+1387,01-01-2025,north,Mechanical Keyboard,Customer 36,Priya,,777.16
+1396,2025-04-02,South,Laptop stand ,Customer 36,Divya,0,1631.71
+1133,02/24/2025,East,Webcam HD,Customer 26,Suresh,2,1073.03
+1060,2025-01-14,East,Bluetooth Speaker,Customer 46,Priya,2,1556.15
+1313,13-05-2025, north,wireless mouse ,Customer 13,Meena,,2776.35
+1399,02/22/2025,East,usb-c cable,Customer 33,Meena,5,2064.76
+1100,12/01/2025,north,Wireless Mouse,Customer 37,Meena,1,1572.5
+1019,08/31/2025,west,Bluetooth Speaker,Customer 13,Arun,2,1971.43
+1320,01/29/2025,East,Laptop stand ,Customer 60,Priya,3,508.23
+1386,18-08-2025,west,bluetooth  speaker,Customer 21,Arun,,2060.32
+1264,18/07/2025,South,Laptop stand ,Customer 23,Divya,0,530.31
+1276,2025-03-14,East,Bluetooth Speaker,Customer 29,Arun,2,1002.12
+1008,2025-01-17,East,Laptop Stand,Customer 5,Priya,0,1924.91
+1283,16-08-2025, north,Desk Lamp,Customer 22,Arun,3,1851.94
+1092,22-08-2025,east ,Bluetooth Speaker,Customer 56,Meena,3,297.18
+1252,03-04-2025,west,Desk Lamp,Customer 14,Divya,5,3114.66
+1032,2025-03-08,,Desk Lamp,Customer 29,Suresh,3,1352.0
+1135,01-05-2025,east ,Laptop Stand,Customer 13,Priya,0,524.97
+1022,08-01-2025,WEST,USB-C Cable,Customer 27,Divya,,535.39
+1062,08-09-2025,East,Laptop stand ,Customer 41,Divya,3,934.29
+1328,2025-05-02,South ,USB-C Cable,Customer 41,Arun,2,901.38
+1215,28-06-2025,east ,Mechanical Keyboard,Customer 26,Suresh,3,2190.39
+1344,31-08-2025,east ,Laptop Stand,Customer 26,Priya,0,1553.21
+1353,05/01/2025,east , webcam hd,Customer 12,Suresh,1,474.29
+1257,24/04/2025,South ,Bluetooth Speaker,Customer 30,Meena,five,1999.19
+1052,02/01/2025,East,Bluetooth Speaker,Customer 58,Suresh,1,3227.32
+1345,06/19/2025, north,Desk Lamp,Customer 31,Karthik,2,289.3
+1173,2025-03-06,South,bluetooth  speaker,Customer 30,Meena,-1,739.61
+1035,03/21/2025,east ,USB-C Cable,Customer 57,Divya,1,522.61
+1178,16/01/2025,north, webcam hd,Customer 20,Divya,4,3183.35
+1167,2025-08-19,South ,bluetooth  speaker,Customer 49,Arun,0,501.94
+1226,09/03/2025,WEST,Bluetooth Speaker,Customer 59,Priya,-1,843.03
+1120,2025-05-11,east , webcam hd,Customer 60,Divya,2,318.84
+1275,05/22/2025,east ,usb-c cable,Customer 10,Meena,2,2847.58
+1044,14/06/2025,west,bluetooth  speaker,Customer 44,Priya,-1,1057.69
+1300,08/03/2025,South ,usb-c cable,Customer 27,Meena,2,851.09
+1076,19/08/2025,north,Wireless Mouse,Customer 15,Karthik,5,2142.77
+1208,11/07/2025,west,Mechanical Keyboard,Customer 52,Meena,4,2847.53
+1212,12/01/2025,north,Wireless Mouse,Customer 48,Priya,0,271.81
+1267,27/03/2025,north,USB-C Cable,Customer 12,Karthik,five,1365.17
+1311,31-03-2025,East,bluetooth  speaker,Customer 36,Meena,-1,458.55
+1216,02/06/2025,East,Mechanical Keyboard,Customer 25,Priya,4,968.26
+1197,04/20/2025,north,Mechanical Keyboard,Customer 45,Karthik,3,305.92
+1009,08/23/2025,north,USB-C Cable,Customer 16,Meena,-1,1427.87
+1339,27-04-2025,East,Mechanical Keyboard,Customer 27,Suresh,,1613.42
+1354,21/05/2025,East,Laptop stand ,Customer 30,Karthik,4,959.47
+1285,15-03-2025, north,Webcam HD,Customer 42,Priya,,834.54
+1295,31-03-2025, north,Desk Lamp,Customer 9,Meena,1,498.64
+1104,2025-09-04,South ,wireless mouse ,Customer 30,Arun,3,3278.81
+1312,04-03-2025, north,usb-c cable,Customer 9,Priya,3,828.77
+1321,2025-01-15,east ,Webcam HD,Customer 13,Divya,-1,
+1284,22-02-2025,South ,Laptop stand ,Customer 57,Karthik,3,1053.64
+1091,19/03/2025, north,USB-C Cable,Customer 33,Suresh,2,2759.3
+1182,06/10/2025,east ,bluetooth  speaker,Customer 33,Divya,,798.58
+1315,08/07/2025,South ,usb-c cable,Customer 59,Priya,5,790.37
+1381,08/13/2025,East,Laptop stand ,Customer 40,Arun,3,1083.0
+1172,08/28/2025,,wireless mouse ,Customer 20,Divya,,1472.26
+1232,02/04/2025, north,usb-c cable,Customer 33,Divya,2,306.05
+1036,2025-05-08,east ,Desk Lamp,Customer 7,Divya,1,2981.42
+1156,04/05/2025,east , webcam hd,Customer 43,Arun,-1,729.92
+1002,08/03/2025,west,Webcam HD,Customer 18,Arun,3,1968.06
+1242,19/08/2025,WEST,Laptop stand ,Customer 36,Divya,3,516.93
+1308,11-03-2025,east ,wireless mouse ,Customer 11,Divya,,784.06
+1289,03/05/2025,East,wireless mouse ,Customer 16,Divya,0,300.69
+1048,08/22/2025,west, webcam hd,Customer 34,Suresh,0,870.92
+1141,25/05/2025,East,Laptop stand ,Customer 44,Suresh,1,3077.51
+1223,08/02/2025,East,usb-c cable,Customer 17,Priya,2,1830.71
+1183,08/23/2025,,Webcam HD,Customer 23,Arun,1,798.18
+1331,25/03/2025,South,Wireless Mouse,Customer 19,Arun,2,871.18
+1369,26-07-2025,WEST,usb-c cable,Customer 47,Priya,4,1807.86
+1160,2025-01-22,north,Mechanical Keyboard,Customer 26,Suresh,,724.95
+1336,30-05-2025,west,wireless mouse ,Customer 20,Divya,,1077.9
+1219,05/29/2025,South ,Webcam HD,Customer 39,Meena,2,479.22
+1099,06/04/2025,East,bluetooth  speaker,Customer 7,Priya,3,1456.72
+1235,2025-07-01,East,wireless mouse ,Customer 24,Divya,,1422.01
+1117,16-08-2025,South,Laptop stand ,Customer 39,Priya,2,476.55
+1341,08/11/2025,east ,Webcam HD,Customer 17,Karthik,2,292.31
+1001,17-01-2025,South,usb-c cable,Customer 15,Suresh,0,302.66
+1113,2025-04-30,east ,Webcam HD,Customer 1,Karthik,3,503.01
+1382,24-01-2025,north, webcam hd,Customer 21,Arun,-1,3145.13
+1174,04/04/2025,East,Mechanical Keyboard,Customer 59,Arun,2,1394.97
+1253,29/07/2025,east , webcam hd,Customer 20,Priya,5,1860.73
+1368,2025-08-22,East, webcam hd,Customer 9,Karthik,,838.97
+1184,2025-08-29, north,wireless mouse ,Customer 28,Priya,5,1945.34
+1165,08/02/2025,South ,Mechanical Keyboard,Customer 52,Meena,3,277.64
+1274,2025-05-30,north,Mechanical Keyboard,Customer 58,Meena,2,545.18
+1192,15/04/2025,west,Desk Lamp,Customer 47,Arun,3,1411.26
+1000,27-02-2025,north,usb-c cable,Customer 15,Priya,2,2095.22
+1054,12/08/2025, north,Bluetooth Speaker,Customer 22,Meena,3,1865.08
+1028,23-08-2025,South,Mechanical Keyboard,Customer 14,Suresh,5,542.24
+1206,01-05-2025,South,bluetooth  speaker,Customer 20,Priya,3,2000.01
+1049,16/09/2025,west,USB-C Cable,Customer 48,Divya,,839.23
+1350,16/09/2025,South, webcam hd,Customer 2,Priya,2,1017.79
+1020,28-01-2025, north,Bluetooth Speaker,Customer 47,Karthik,2,468.22
+1293,09/19/2025,east ,Mechanical Keyboard,Customer 21,Divya,0,2104.24
+1176,09/15/2025,east ,USB-C Cable,Customer 43,Suresh,0,853.74
+1335,02/01/2025,South,Laptop Stand,Customer 53,Meena,0,
+1379,04-04-2025,,Bluetooth Speaker,Customer 30,Karthik,3,2139.2
+1033,18-03-2025,South ,Webcam HD,Customer 36,Priya,3,453.27
+1171,2025-03-31,WEST,wireless mouse ,Customer 13,Priya,4,2995.41
+1007,25/08/2025,north, webcam hd,Customer 45,Suresh,4,1928.75
+1318,2025-09-15,East,Laptop Stand,Customer 12,Arun,2,1414.76
+1324,2025-02-07,East,Webcam HD,Customer 7,Karthik,5,740.9
+1106,2025-07-15,South, webcam hd,Customer 15,Divya,1,1614.19
+1097,04/05/2025,east ,usb-c cable,Customer 30,Meena,5,
+1110,22/04/2025,west,usb-c cable,Customer 55,Karthik,2,1945.96
+1360,2025-04-04,South,usb-c cable,Customer 23,Priya,5,1056.56
+1069,04/05/2025,WEST,Desk Lamp,Customer 31,Karthik,0,3013.78
+1346,09-09-2025,WEST,USB-C Cable,Customer 20,Meena,,3194.43
+1129,29-01-2025,WEST,Laptop Stand,Customer 14,Priya,5,
+1316,2025-05-06,west,Bluetooth Speaker,Customer 57,Suresh,,274.35
+1258,2025-02-23,East,wireless mouse ,Customer 8,Meena,3,768.94
+1322,23-04-2025,west,Wireless Mouse,Customer 22,Suresh,4,2777.37
+1150,10-07-2025,South,Laptop Stand,Customer 6,Priya,5,1079.98
+1337,07/18/2025,South ,Bluetooth Speaker,Customer 24,Priya,,284.85
+1026,21-01-2025,East, webcam hd,Customer 38,Suresh,-1,868.47
+1398,2025-03-24,north,USB-C Cable,Customer 54,Arun,5,
+1093,23-07-2025,South , webcam hd,Customer 55,Suresh,3,819.26
+1148,04/30/2025,north,bluetooth  speaker,Customer 58,Priya,2,2177.76
+1119,21/04/2025,west,usb-c cable,Customer 27,Karthik,,982.21
+1138,20-01-2025,South ,Laptop Stand,Customer 5,Meena,2,1527.21
+1169,08/17/2025,north,Desk Lamp,Customer 59,Divya,4,277.22
+1363,29/07/2025,east ,Laptop stand ,Customer 56,Meena,3,2747.57
+1202,09/10/2025,west,Laptop Stand,Customer 13,Arun,2,522.07
+1147,26/03/2025, north,Bluetooth Speaker,Customer 24,Meena,4,1021.1
+1277,08/07/2025,west,Laptop stand ,Customer 38,Arun,2,2187.77
+1256,2025-07-24,East,wireless mouse ,Customer 1,Arun,5,500.07
+1131,22/01/2025, north,bluetooth  speaker,Customer 59,Arun,2,1477.8
+1249,04/01/2025,South ,Webcam HD,Customer 25,Karthik,,787.91
+1152,25-04-2025,South ,wireless mouse ,Customer 54,Meena,2,
+1362,14-09-2025,East,Mechanical Keyboard,Customer 20,Divya,1,3211.47
